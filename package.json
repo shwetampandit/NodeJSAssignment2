@@ -10,6 +10,9 @@
   "keywords": ["express", "mongodb", "rest-api", "contacts"],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.5.0",
